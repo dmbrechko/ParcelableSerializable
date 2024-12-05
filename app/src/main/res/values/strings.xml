@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ParcelableSerializable</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_address">Enter address</string>
+    <string name="save">Save</string>
+    <string name="person_info">Person info</string>
+    <string name="name_placeholder">Name: %s</string>
+    <string name="last_name_placeholder">Last name: %s</string>
+    <string name="address_placeholder">Address: %s</string>
+    <string name="phone_placeholder">Phone: %s</string>
+    <string name="fill_all_fields_please">Fill all fields please</string>
+    <string name="enter_correct_phone_number">Enter correct phone number please</string>
+    <string name="enter_phone">Enter phone</string>
+</resources>
